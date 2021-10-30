@@ -7,9 +7,8 @@ import  "./App.css";
 const Marksentry =  () =>  {
 
 
-    const [enteredClass, setenteredClass] =useState("Select Class");
-    const [enteredYear ,setenteredYear] =useState("2021-2022");
-    const [enteredBranch, setenteredBranch] = useState("LEETMP");
+    
+    
     const [enteredSubject, setenteredSubject] = useState("Select Assessment Subject");
     const [email,setEmail] =useState("admin.Mp@sas.com");
     const [user1, setUsers1] =useState([]);
